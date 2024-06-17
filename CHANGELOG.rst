@@ -2,8 +2,8 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.0 (2024-06-17)
+------------------
 * Install basic package.xml for rosdep resolve
 * Fix include install directory
 * Prepare v2.0.1 (#48)
