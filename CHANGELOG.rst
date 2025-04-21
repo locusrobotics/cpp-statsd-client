@@ -2,8 +2,8 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.3.1 (2025-04-21)
+------------------
 * Make send thread safe (`#53 <https://github.com/locusrobotics/cpp-statsd-client/issues/53>`_)
 * try newer images for ci (`#54 <https://github.com/locusrobotics/cpp-statsd-client/issues/54>`_)
 * Fix include install directory (`#50 <https://github.com/locusrobotics/cpp-statsd-client/issues/50>`_)
