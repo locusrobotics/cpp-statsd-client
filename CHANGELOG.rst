@@ -2,6 +2,13 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Make send thread safe (`#53 <https://github.com/locusrobotics/cpp-statsd-client/issues/53>`_)
+* try newer images for ci (`#54 <https://github.com/locusrobotics/cpp-statsd-client/issues/54>`_)
+* Fix include install directory (`#50 <https://github.com/locusrobotics/cpp-statsd-client/issues/50>`_)
+* Contributors: Aaditya Ravindran, Kevin Kreiser, Paul Bovbel
+
 2.3.0 (2025-02-04)
 ------------------
 
