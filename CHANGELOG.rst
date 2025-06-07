@@ -2,6 +2,13 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Make send thread safe (#53)
+* try newer images for ci (#54)
+* Fix include install directory (#50)
+* Contributors: Aaditya Ravindran, Kevin Kreiser, Paul Bovbel
+
 2.3.0 (2025-02-04)
 ------------------
 
