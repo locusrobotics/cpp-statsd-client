@@ -2,6 +2,9 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 2.5.0 (2025-09-30)
 ------------------
 
