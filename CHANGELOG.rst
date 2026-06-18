@@ -2,8 +2,8 @@
 Changelog for package cpp-statsd-client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.9.0 (2026-06-18)
+------------------
 * Add find_dependency() for Threads
   This fixes downstream packages that import cpp-statsd-client
 * Contributors: James Prestwood
